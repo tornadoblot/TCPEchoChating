@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (MultiPlayer.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  EchoClient.cpp
+C:\Users\SM-PC\Desktop\EchoServer\EchoServer\SocketUtil.hpp(6,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+  EchoServer.vcxproj -> C:\Users\SM-PC\Desktop\EchoServer\Debug\EchoServer.exe
